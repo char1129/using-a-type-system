@@ -27,7 +27,7 @@ a {
 }
 
 .card {
-  overflow; hidden;
-  background-color; #d9ccaa;
+  overflow: hidden;
+  background-color: #d9ccaa;
   border-radius: 6px;
 }
